@@ -1,0 +1,6 @@
+{
+  "name": "PUIDO Smart Solutions - Order Checkout",
+  "description": "Official order checkout form for PUIDO Smart Solutions with Web3Forms integration and direct delivery confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
